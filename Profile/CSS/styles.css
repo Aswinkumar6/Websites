@@ -1,0 +1,87 @@
+
+/*-----Class Selectors-------*/
+.certs{
+  width:100px;
+}
+.top-container{
+  background-color:#1f4287;
+text-align: center;
+}
+.top1{
+width:23%;
+margin:0;
+border:0;
+padding : 5% 10% 4% 0;
+}
+
+
+.skill-row{
+
+margin: 100px auto 100px auto;
+text-align: left;
+line-height: 2;
+margin-top: 0;
+margin-bottom: 0;
+}
+.cloud{
+  width:30%;
+padding left:15%;
+margin-right: 10%;
+  float: left;
+}
+.middle-container{
+  font-family: "Ubuntu";
+  font-weight: bold;
+}
+
+/*-----ID Selectors-------*/
+.my{
+  width:30%;
+  height:50%;
+  border-radius: 100%;
+}
+#heading{
+font-family: "Sacramento";
+font-weight:900;
+margin:0;
+color: white;
+font-size: 500%;
+line-height: 2;
+}
+/*------Tag Selectors-----*/
+
+p{
+  font-family:Ubuntu;
+  font-weight: 400;
+  color:grey;
+  font-size:100%;
+  line-height: 2;
+  padding: 0;
+  margin-bottom: 0px;
+}
+.tag2{
+
+  font-family:Ubuntu;
+  font-weight: 900;
+  color:grey;
+  font-size:130%;
+  line-height: 2;
+
+}
+#tag1{
+  font-family:Ubuntu;
+  font-weight: 900;
+  color:powderblue;
+  font-size:200%;
+  padding-bottom:3%;
+  margin:0;
+  height:30px;
+  }
+
+.bottom-container{
+padding-top:1%;
+background-color:#1d2323;
+color:white;
+font-family: Ubuntu;
+margin-bottom:0;
+  }
